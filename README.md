@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devfayzullo" alt="devfayzullo" /></a> </p>
 
-- 🔭 I’m currently working on [JS-Projects](https://github.com/DevFayzullo/JS-Projects)
+- 🔭 I’m currently working on [chatbot-ui](https://github.com/DevFayzullo/chatbot-ui)
 
 - 🌱 I’m currently learning **React, FrontEnd Developing**
 
