@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devfayzullo" alt="devfayzullo" /></a> </p>
 
-- 🔭 I’m currently working on [chatbot-ui](https://github.com/DevFayzullo/chatbot-ui)
+- 🔭 I’m currently working on [Portfolio](https://github.com/DevFayzullo/Portfolio)
 
-- 🌱 I’m currently learning **React, FrontEnd Developing**
+- 🌱 I’m currently learning **TypeScript, FrontEnd Developing**
 
-- 👯 I’m looking to collaborate on [E-Commerce-Project](https://github.com/DevFayzullo/E-Commerce-Project)
+- 👯 I’m looking to collaborate on [spin-wheel](https://github.com/DevFayzullo/spin-wheel)
 
 - 💬 Ask me about **HTML, CSS, JS, REACT**
 
