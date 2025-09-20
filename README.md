@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [spin-wheel](https://github.com/DevFayzullo/spin-wheel)
 
-- 💬 Ask me about **HTML, CSS, JS, REACT**
+- 💬 Ask me about **HTML, CSS, JS, REACT, TAILWIND CSS**
 
 - 📫 How to reach me **fayzullo.coder@gmail.com**
 
