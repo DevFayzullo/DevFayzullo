@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devfayzullo" alt="devfayzullo" /></a> </p>
 
-- 🔭 I’m currently working on [spin-wheel](https://github.com/DevFayzullo/spin-wheel)
+- 🔭 I’m currently working on [multi-lang-blo](https://github.com/DevFayzullo/multi-lang-blog)
 
 - 🌱 I’m currently learning **TypeScript, FrontEnd Developing**
 
