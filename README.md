@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript, FrontEnd Developing**
 
-- 👯 I’m looking to collaborate on [spin-wheel](https://github.com/DevFayzullo/spin-wheel)
+- 👯 I’m looking to collaborate on [multi-lang-blog](https://github.com/DevFayzullo/multi-lang-blog)
 
 - 💬 Ask me about **HTML, CSS, JS, REACT, TAILWIND CSS**
 
