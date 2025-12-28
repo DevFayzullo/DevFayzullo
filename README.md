@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **fayzullo.coder@gmail.com**
 
-- ⚡ Fun fact **I love coding as much as bodybuilding**
+- ⚡ Fun fact **I love coding as much as bodybuilding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
