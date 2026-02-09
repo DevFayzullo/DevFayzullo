@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [multi-lang-blog](https://github.com/DevFayzullo/multi-lang-blog)
 
-- 🌱 I’m currently learning **TypeScript, Full Stack Developing**
+- 🌱 I’m currently learning **Pyhton**
 
 - 👯 I’m looking to collaborate on [multi-lang-blog](https://github.com/DevFayzullo/multi-lang-blog)
 
