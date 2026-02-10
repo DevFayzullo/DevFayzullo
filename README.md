@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [multi-lang-blog](https://github.com/DevFayzullo/multi-lang-blog)
 
-- 💬 Ask me about **HTML, CSS, JS, REACT, TAILWIND CSS**
+- 💬 Ask me about **HTML, CSS, JS, REACT, TAILWIND CSS, PYHTON**
 
 - 📫 How to reach me **fayzullo.coder@gmail.com**
 
